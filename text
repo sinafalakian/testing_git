@@ -1,1 +1,10 @@
-hello git
+git init
+git status
+git add <filename>
+git commit -m <massage about the commit>
+git branch
+git remote add origin https://github.com/cubeton/mynewrepository.git
+git push -u origin master
+git push origin my-new-branch
+git pull origin master
+git log
