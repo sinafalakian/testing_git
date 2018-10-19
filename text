@@ -12,3 +12,4 @@ git push origin my-new-branch
 git pull origin master
 git log
 git fetch -p
+git clone rep_URL
